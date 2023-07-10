@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\BusinessObjects.csproj" />
+    <ProjectReference Include="..\BusinessObjects\BusinessObjects.csproj" />
   </ItemGroup>
 
 </Project>

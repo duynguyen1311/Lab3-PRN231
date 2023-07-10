@@ -1,0 +1,170 @@
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.exe
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.deps.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.runtimeconfig.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Repositories.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfo.cs
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductManagementAPI.props
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductManagementAPI.props
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductManagementAPI.props
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProductManagementAPI.styles.css
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CopyComplete
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\refint\ProductManagementAPI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.genruntimeconfig.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\obj\Debug\net6.0\ref\ProductManagementAPI.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\ProductManagementAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\appsettings.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.exe
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.deps.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.runtimeconfig.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\ProductManagementAPI.pdb
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\AutoMapper.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Text.Json.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\DataAccess.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Repositories.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\Repositories.pdb
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\BusinessObjects.pdb
+E:\C# project\Lab3_PRN231\ProductManagementAPI\bin\Debug\net6.0\DataAccess.pdb
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.AssemblyReference.cache
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfoInputs.cache
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.AssemblyInfo.cs
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CoreCompileInputs.cache
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProductManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductManagementAPI.props
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductManagementAPI.props
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductManagementAPI.props
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\scopedcss\bundle\ProductManagementAPI.styles.css
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.csproj.CopyComplete
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\refint\ProductManagementAPI.dll
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.pdb
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ProductManagementAPI.genruntimeconfig.cache
+E:\C# project\Lab3_PRN231\ProductManagementAPI\obj\Debug\net6.0\ref\ProductManagementAPI.dll

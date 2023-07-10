@@ -1,0 +1,30 @@
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\appsettings.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+C:\Users\Thinkpad\Downloads\Lab01_ASP.NETCoreWebAPI\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+E:\C# project\Lab3_PRN231\BusinessObjects\bin\Debug\net6.0\appsettings.json
+E:\C# project\Lab3_PRN231\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+E:\C# project\Lab3_PRN231\BusinessObjects\bin\Debug\net6.0\BusinessObjects.runtimeconfig.json
+E:\C# project\Lab3_PRN231\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+E:\C# project\Lab3_PRN231\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\BusinessObjects.genruntimeconfig.cache
+E:\C# project\Lab3_PRN231\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll

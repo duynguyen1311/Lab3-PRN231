@@ -1,0 +1,52 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Add Product</h1>
+<form>
+    <input type="text" class="form-control" name="productName" placeholder="Product Name"/>
+    <input type="text" class="form-control" name="categoryid" placeholder="CategoryId"/>
+    <input type="text" class="form-control" name="unitPrice" placeholder="Unit Price"/>
+    <input type="text" class="form-control" name="unitsInStock" placeholder="UnitsInStock"/>
+    <button class="btn btn-primary">Submit</button>
+</form>
+
+
+@section scripts{
+    <script>
+        $(document).ready(function() {
+            $('form').submit(function(event) {
+                // Prevent the default form submission
+                event.preventDefault();
+
+                // Get the form data
+                var formData = {
+                    productName: $('input[name=productName]').val(),
+                    categoryid: $('input[name=categoryid]').val(),
+                    unitPrice: $('input[name=unitPrice]').val(),
+                    unitsInStock: $('input[name=unitsInStock]').val()
+                };
+
+                // Send the AJAX request
+                $.ajax({
+                    url: "http://localhost:5013/api/Products",// Replace with your API endpoint URL
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify(formData),
+                    success: function(response) {
+                        // Handle the success response
+                        window.location.href = "ProductList";
+                        // TODO: Add your own logic here
+                    },
+                    error: function(error) {
+                        // Handle the error response
+                        console.log(error);
+                        // TODO: Add your own error handling logic here
+                    }
+                });
+            });
+        });
+</script>
+}

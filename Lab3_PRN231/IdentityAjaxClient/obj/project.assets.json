@@ -2866,8 +2866,8 @@
     },
     "BusinessObjects/1.0.0": {
       "type": "project",
-      "path": "C:\\Users\\Thinkpad\\Downloads\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\BusinessObjects.csproj",
-      "msbuildProject": "C:\\Users\\Thinkpad\\Downloads\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\BusinessObjects.csproj"
+      "path": "../BusinessObjects/BusinessObjects.csproj",
+      "msbuildProject": "../BusinessObjects/BusinessObjects.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2907,8 +2907,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Thinkpad\\Downloads\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\Thinkpad\\Downloads\\Lab01_ASP.NETCoreWebAPI\\BusinessObjects\\BusinessObjects.csproj"
+            "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj"
             }
           }
         }
