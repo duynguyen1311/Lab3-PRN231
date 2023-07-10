@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "49NkfgdJZYYTe+9Dqt30yn5S2axFhG3w/n1VaPVrxiDnc703pSU4Jhxw50p0GAdrftesxaynvaRgpeCn7IQTgw==",
+  "dgSpecHash": "PLwbPZTH/TQLH/OX0gZdAmVNBt//U/QBGEM2zyUQsIbfUyMxY0wZc9wRM12Uh8WjhBat2Rx4UDmKMVXu25MvRg==",
   "success": true,
-  "projectFilePath": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj",
+  "projectFilePath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -2693,11 +2693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
+      "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
       "projectName": "ProductManagementAPI",
-      "projectPath": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
+      "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\obj\\",
+      "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2714,8 +2714,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj": {
-              "projectPath": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj"
+            "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj": {
+              "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj"
             }
           }
         }

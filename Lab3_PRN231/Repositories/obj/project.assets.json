@@ -2401,11 +2401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj",
+      "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\C# project\\Lab3_PRN231\\Repositories\\obj\\",
+      "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2422,8 +2422,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj"
+            "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj"
             }
           }
         }

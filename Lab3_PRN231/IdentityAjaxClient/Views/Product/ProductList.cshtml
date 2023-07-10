@@ -26,7 +26,7 @@
         $(document).ready(function () {
             ShowAllProduct();
 
-            function ShowAllProduct(){
+            function ShowAllProduct() {
                 $("table tbody").html("");
                 $.ajax({
                     url: "http://localhost:5013/api/Products",
@@ -41,18 +41,18 @@
                             appendElement.append($("<td>").html(value["productName"]));
                             appendElement.append($("<td>").html(value["unitsInStock"]));
                             appendElement.append($("<td>").html(value["unitPrice"]));
-                            appendElement.append($("<td>").html("<a href=\"?id="+
-                            value["productId"] + "\">Update</a>"));
-                            appendElement.append($("<td>").html("Delete"));
+                            appendElement.append($("<td>").html("<a href=\"?id=" +
+                                value["productId"] + "\">Update</a>"));
+                            appendElement.append($("<td id=\"delete\">").html("Delete"));
                         });
-                        
+
                     },
-                    error: function (xhr,status,error) {
+                    error: function (xhr, status, error) {
                         console.log(xhr);
                     }
                 });
             }
-            $("table").on("click","img.delete",function(){
+            $("table").on("click", "#delete", function () {
                 var productId = $(this).parents("tr").find("td:nth-child(1)").text();
                 var confirmation = confirm("Are you sure you want to delete this product?");
                 $.ajax({
@@ -63,18 +63,18 @@
                     success: function (result, status, xhr) {
                         ShowAllProduct();
                     },
-                    error: function (xhr,status,error) {
+                    error: function (xhr, status, error) {
                         console.log(xhr);
                     }
                 });
             })
-            $(document).ready(function() {
-               $('#addButton').click(function() {
-                   // Redirect to the desired URL
-                   window.location.href = '/Product/Add';
-               });
+            $(document).ready(function () {
+                $('#addButton').click(function () {
+                    // Redirect to the desired URL
+                    window.location.href = '/Product/Add';
+                });
             });
-            
+
         });
     </script>
 }

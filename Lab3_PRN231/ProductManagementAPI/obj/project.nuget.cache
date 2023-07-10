@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hn3gfirYUeVQTxWDsMPcOzRcgs8Z0//9zaXM6E2g+pcxVQ6xMX+cCnrEATbFwnR4J1cSaM9s7/8316Ecrs3Ulw==",
+  "dgSpecHash": "msIMl5P6+1CJW/fM4SetKRjwuURHyk15N8FmjYk+bXUfNCtlTgWRFmuysNx76B/vnn42mn988fpLygSEL5ha3g==",
   "success": true,
-  "projectFilePath": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
+  "projectFilePath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thinkpad\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Thinkpad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

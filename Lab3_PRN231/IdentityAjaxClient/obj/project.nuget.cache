@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+s7xDwRO94uH+YYxTenBI+e1HPf9vewdiLrlHsQETxpHriE/5+uxXwPHL8KX0Szd12bOVsBXxrunF1lKGCgMjw==",
+  "dgSpecHash": "7Vav3lPi40+rqo7rM2rcTv50mNhBVBeAottX2M+6ulRb9rdo96SiLmkOOp6EWDmeUhpCiz+BykoMTHtBBXpWzQ==",
   "success": true,
-  "projectFilePath": "E:\\C# project\\Lab3_PRN231\\IdentityAjaxClient\\IdentityAjaxClient.csproj",
+  "projectFilePath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\IdentityAjaxClient\\IdentityAjaxClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thinkpad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Thinkpad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",

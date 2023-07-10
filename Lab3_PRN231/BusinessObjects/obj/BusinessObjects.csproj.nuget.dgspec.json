@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {}
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {}
   },
   "projects": {
-    "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\obj\\",
+        "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",

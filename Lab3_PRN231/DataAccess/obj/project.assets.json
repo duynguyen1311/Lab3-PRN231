@@ -2383,11 +2383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
+      "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-      "outputPath": "E:\\C# project\\Lab3_PRN231\\DataAccess\\obj\\",
+      "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2404,8 +2404,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj"
+            "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj"
             }
           }
         }

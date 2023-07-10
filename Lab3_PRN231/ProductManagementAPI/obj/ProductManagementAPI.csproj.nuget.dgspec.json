@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj": {}
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj": {}
   },
   "projects": {
-    "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\obj\\",
+        "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj": {
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
+        "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "E:\\C# project\\Lab3_PRN231\\DataAccess\\obj\\",
+        "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "E:\\C# project\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj"
+              "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj": {
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
+        "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
         "projectName": "ProductManagementAPI",
-        "projectPath": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
+        "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\ProductManagementAPI.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "E:\\C# project\\Lab3_PRN231\\ProductManagementAPI\\obj\\",
+        "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\ProductManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj": {
-                "projectPath": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj"
+              "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj": {
+                "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -228,14 +228,14 @@
         }
       }
     },
-    "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj": {
+    "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "E:\\C# project\\Lab3_PRN231\\Repositories\\Repositories.csproj",
+        "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "E:\\C# project\\Lab3_PRN231\\Repositories\\obj\\",
+        "outputPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thinkpad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -252,8 +252,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "E:\\C# project\\Lab3_PRN231\\DataAccess\\DataAccess.csproj"
+              "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "E:\\Lab3\\Lab3-PRN231\\Lab3_PRN231\\DataAccess\\DataAccess.csproj"
               }
             }
           }
